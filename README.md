@@ -5,6 +5,8 @@
 [Глава 1 - git config](ch1.md)
 [Глава 2 - git clone](ch2.md)
 
+[Глава 2 - git clone](ch2.md)
+
 - [x] git config
 - [x] git clone
 - [ ] git branch
