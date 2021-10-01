@@ -4,8 +4,8 @@
 ## Оглавление
 [Глава 1 - git config](ch1.md)
 
-- [ ] git config
-- [ ] git clone
+- [x] git config
+- [x] git clone
 - [ ] git branch
 - [ ] git add
 - [ ] git reset
